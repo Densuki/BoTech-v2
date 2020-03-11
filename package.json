@@ -1,12 +1,12 @@
 {
-  "name": "Tech-Bot",
+  "name": "tech-bot",
   "version": "1.0.0",
   "description": "Bot focado em estudos para futuros bots.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Densuki",
+  "author": "SadJulio",
   "license": "ISC",
   "dependencies": {
     "ascii-table": "0.0.9",
