@@ -61,7 +61,7 @@ config({
     require(`./handlers/${handler}`)(client);
 });
 //STATUS
-let presence = ["Meu prefixo é c!", "Eu ser desenvolvido"];
+let presence = ["Meu prefixo é c!"];
 
 
 client.on("ready", () => {
