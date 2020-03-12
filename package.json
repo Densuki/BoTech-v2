@@ -4,8 +4,8 @@
   "description": "Bot focado em estudos para futuros bots.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-	"start": "npm start"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "SadJulio",
   "license": "ISC",
